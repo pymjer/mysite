@@ -1,0 +1,5 @@
+[client]
+database = mysite
+user = root
+password = prolion
+default-character-set = utf8
